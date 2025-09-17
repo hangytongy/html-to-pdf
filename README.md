@@ -2,4 +2,4 @@
 
 ```pip install flask pdfkit```
 
-sudo apt install wkhtmltopdf
+```sudo apt install wkhtmltopdf```
