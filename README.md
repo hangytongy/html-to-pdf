@@ -1,3 +1,5 @@
 # html-to-pdf
-pip install flask pdfkit
+
+```pip install flask pdfkit```
+
 sudo apt install wkhtmltopdf
